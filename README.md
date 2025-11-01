@@ -1,5 +1,5 @@
 ### Hi there 👋 
-Call me Blaze. I don't upload my stuff coding-wise publically much, but am looking to do youtube. I have a few private Obsidian.md Plugins, Python Programs, and Bash scripts. 
+Call me Blaze. I don't upload my stuff coding-wise publically much, but am looking to do youtube. I have a few private Obsidian.md Plugins, and Python Programs.
 
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#) 
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
@@ -7,7 +7,6 @@ Call me Blaze. I don't upload my stuff coding-wise publically much, but am looki
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 
 Different things I am on:     
